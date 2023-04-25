@@ -2,13 +2,12 @@
 
 I’m currently working as a Lead Data Scientist on Datarisk, a company specialized in machine learning models and risk modelling. As a Lead Data Scientist, I manage data science projects which I allocate and mentor data scientist during the execution of it.
 
-
+<!--
 I'm a data scientist, looking to improve my knoledge in data science and machine learning engineering.
 
 - 🔭 I’m currently working as a data scientist
 - 📫 How to reach me: tgopedrosa@gmail.com and [linkedin](https://www.linkedin.com/in/tiago-pedrosa-b24606b2/)
 
-<!--
 ### Experience
 - Data scientist (2022-2023, iFood)
 - Data scientist (2021-, Engineering Brasil)
