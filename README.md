@@ -1,6 +1,6 @@
 ### Hi there, I'm João 👋
 
-I’m currently working as a Lead Data Scientist on Datarisk, a company specialized in machine learning models and risk modelling. As a Lead Data Scientist, I manage data science projects which I allocate and mentor data scientist during the execution of it.
+I’m currently working as a Lead Data Scientist on Datarisk, a company specialized in machine learning models and risk modelling. As a Lead Data Scientist, I manage data science projects which I allocate and mentor data scientists during the execution of it.
 
 <!--
 I'm a data scientist, looking to improve my knoledge in data science and machine learning engineering.
